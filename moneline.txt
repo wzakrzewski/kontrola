@@ -1,0 +1,12 @@
+9942fdb (HEAD -> main) Merge branch 'alfa'
+bb4d56f (alfa) aMNO
+fd28906 JKL
+7449c88 mergeGHI
+b8942e2 aGHI
+484bedd ghi
+addbc8b Merge branch 'alfa'
+4d6dbd9 mbran abc
+e68580b mbran abc
+efc58d7 DEF na alfa
+4d73d66 mbran
+a784bf6 Zadanie do wykladu 4. - start
