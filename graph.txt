@@ -1,0 +1,45 @@
+$ git log --graph --all --decorate
+* commit c3366a22d472127d4b00d052201d51679bdbb99f (main)
+| Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| Date:   Tue Oct 25 18:57:31 2022 +0200
+|
+|     moneline
+|
+*   commit 9942fdb415543c6c21f4bcfb6fa5bb2af9ec7b0d
+|\  Merge: fd28906 bb4d56f
+| | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | Date:   Tue Oct 25 18:51:03 2022 +0200
+| |
+| |     Merge branch 'alfa'
+| |
+* | commit fd289069bf05c011d11062510dd852066add318a
+| | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | Date:   Tue Oct 25 18:49:20 2022 +0200
+| |
+| |     JKL
+| |
+* |   commit 7449c886d3dd3ef5bff37197a6f93ddde3718969
+|\ \  Merge: 484bedd b8942e2
+| | | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | | Date:   Tue Oct 25 18:48:41 2022 +0200
+| | |
+| | |     mergeGHI
+| | |
+* | | commit 484bedd6024b0e79b032df31617d48787d7e2459
+| | | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | | Date:   Tue Oct 25 18:46:29 2022 +0200
+| | |
+| | |     ghi
+| | |
+* | |   commit addbc8bb5ff7b568698de990c12e7f12a5e8b9e0
+|\ \ \  Merge: 4d6dbd9 efc58d7
+| | | | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | | | Date:   Tue Oct 25 18:42:12 2022 +0200
+| | | |
+| | | |     Merge branch 'alfa'
+| | | |
+* | | | commit 4d6dbd946755740793b977b2ca32d4d5ff125c8c
+| | | | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | | | Date:   Tue Oct 25 18:41:33 2022 +0200
+| | | |
+| | | |     mbran abc
