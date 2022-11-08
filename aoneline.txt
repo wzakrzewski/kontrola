@@ -1,0 +1,5 @@
+bb4d56f (HEAD -> alfa) aMNO
+b8942e2 aGHI
+efc58d7 DEF na alfa
+4d73d66 mbran
+a784bf6 Zadanie do wykladu 4. - start
