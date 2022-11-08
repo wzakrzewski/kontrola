@@ -1,0 +1,46 @@
+$ git log --graph --all --decorate --branches
+* commit ba3e854d86db9e9d3d6f4419f8d371ca7325cb52 (HEAD -> gamma, beta)
+| Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| Date:   Tue Oct 25 19:03:17 2022 +0200
+|
+|     graph
+|
+* commit a013f1f085822a270af9580aad8e61f70fc5f652 (alfa)
+| Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| Date:   Tue Oct 25 18:57:11 2022 +0200
+|
+|     aoneline
+|
+| * commit c3366a22d472127d4b00d052201d51679bdbb99f (main)
+| | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | Date:   Tue Oct 25 18:57:31 2022 +0200
+| |
+| |     moneline
+| |
+| *   commit 9942fdb415543c6c21f4bcfb6fa5bb2af9ec7b0d
+| |\  Merge: fd28906 bb4d56f
+| |/  Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+|/|   Date:   Tue Oct 25 18:51:03 2022 +0200
+| |
+| |       Merge branch 'alfa'
+| |
+* | commit bb4d56f8714a5152170e31bf4384384202748f5a
+| | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | Date:   Tue Oct 25 18:50:26 2022 +0200
+| |
+| |     aMNO
+| |
+| * commit fd289069bf05c011d11062510dd852066add318a
+| | Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+| | Date:   Tue Oct 25 18:49:20 2022 +0200
+| |
+| |     JKL
+| |
+| *   commit 7449c886d3dd3ef5bff37197a6f93ddde3718969
+| |\  Merge: 484bedd b8942e2
+| |/  Author: Wojciech Zakrzewski <zakrzewskiwojciech@outlook.com>
+|/|   Date:   Tue Oct 25 18:48:41 2022 +0200
+| |
+| |       mergeGHI
+| |
+:
